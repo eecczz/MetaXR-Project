@@ -1,7 +1,13 @@
 # MetaXR Project
 
-Experimental XR project repository.
+## 프로젝트 개요
 
-## Notes
+Meta/XR 관련 실험과 프로토타이핑을 위한 Unity 프로젝트 저장소입니다. XR 환경에서의 인터랙션, 씬 구성, 입력 처리 등을 정리해 나가기 위한 공간입니다.
 
-This repository is currently a placeholder for Meta/XR-related project work. Add source files, setup instructions, and screenshots as the project becomes active.
+## 정리 예정 항목
+
+- Unity 버전과 실행 환경
+- 주요 기능 및 구현 범위
+- XR 입력/상호작용 방식
+- 실행 화면 또는 시연 이미지
+- 로컬 실행 방법
