@@ -1,18 +1,31 @@
 # Unity / XR generated files
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-UserSettings/
-MemoryCaptures/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
 
 # IDE
 .vs/
 .vscode/
 .idea/
 
-# OS
+# OS / misc
 .DS_Store
 Thumbs.db
+
+# Rider / generated project files
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity meta files should be tracked, so do not ignore *.meta.

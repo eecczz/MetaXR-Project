@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2a96c23696f243278d951ecc64f945d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175671
+  packageName: Low Poly Monster Bundle 1 - 20 Character Packs! - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Shared Files/Editor/MoveComponentToNewObject.cs
+  uploadId: 833084

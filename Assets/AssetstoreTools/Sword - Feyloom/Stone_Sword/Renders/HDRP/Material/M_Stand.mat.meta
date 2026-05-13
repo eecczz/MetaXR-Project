@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78ae8235a91b48c58b453d038f094e8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325734
+  packageName: Wooden Sword
+  packageVersion: 1.0
+  assetPath: Assets/Feyloom/Stone_Sword/Renders/HDRP/Material/M_Stand.mat
+  uploadId: 770590

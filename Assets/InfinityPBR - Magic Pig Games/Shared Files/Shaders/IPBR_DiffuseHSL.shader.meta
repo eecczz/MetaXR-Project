@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57259ea948a6a47378599f1e75024935
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175671
+  packageName: Low Poly Monster Bundle 1 - 20 Character Packs! - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Shared Files/Shaders/IPBR_DiffuseHSL.shader
+  uploadId: 833084

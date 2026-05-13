@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64cf32067b0f41fcb3a2bc65e7c4dc5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325734
+  packageName: Wooden Sword
+  packageVersion: 1.0
+  assetPath: Assets/Feyloom/Stone_Sword/Renders/Built-in/Material/M_Stone_Sword.mat
+  uploadId: 770590
