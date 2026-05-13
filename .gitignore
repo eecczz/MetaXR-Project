@@ -27,5 +27,6 @@ Thumbs.db
 *.pidb
 *.booproj
 *.svd
+TempAssembly.dll
 
 # Unity meta files should be tracked, so do not ignore *.meta.
