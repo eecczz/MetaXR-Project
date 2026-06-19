@@ -9,6 +9,10 @@
 [Mm]emoryCaptures/
 [Rr]ecordings/
 
+# Third-party Asset Store packages not distributed in this repository
+Assets/AssetStoreReady/FImpossible Creations/
+Assets/AssetStoreReady/FImpossible Creations.meta
+
 # IDE
 .vs/
 .vscode/
